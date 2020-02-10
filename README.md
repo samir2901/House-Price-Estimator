@@ -12,6 +12,8 @@
  3. json
 
  The Graphical Userinterface
+ 
+ ![The GUI](https://raw.githubusercontent.com/samir2901/House-Price-Estimator/master/python_d73r8BTCVN.png)
 
  
  
