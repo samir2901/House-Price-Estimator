@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="windowIcon">
+    <file>Home-icon.png</file>
+  </qresource>
+  <qresource prefix="bgImage">
+    <file>cityscape-clipart-flat-art-2.png</file>
+  </qresource>
+</RCC>
